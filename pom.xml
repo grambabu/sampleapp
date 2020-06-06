@@ -6,6 +6,7 @@
 
   <groupId>CTS</groupId>
   <artifactId>sampleapp</artifactId>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>sampleapp</name>
